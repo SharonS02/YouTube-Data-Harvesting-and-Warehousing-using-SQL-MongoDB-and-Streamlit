@@ -1,0 +1,8 @@
+pandas
+pymongo
+streamlit
+google api client
+mysql.connector
+datetime
+re
+timedelta
